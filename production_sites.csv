@@ -1,0 +1,5 @@
+site_id;site_name;site_city;site_state;site_country_code;lat;lon;site_status
+1;Prod 1 London;London;London;GB;51.5074;-0.1278;active
+2;Prod 2 Paris;Paris;Paris;FR;48.8566;2.3522;active
+3;Prod 3 New York;New York;NY;US;40.7128;-74.0060;inactive
+4;Prod 4 Oslo;Oslo;Oslo;NO;59.9139;10.7522;active
