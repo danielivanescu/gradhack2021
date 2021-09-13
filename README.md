@@ -12,15 +12,19 @@
 * I recommend signing up for Oracle Cloud Infrastructure free tier or a trial account.
 * Attendees at Gradhack can use the provided trial accounts
 
-##
-Sample data spreadsheet
-production_sites.csv
+## Sample data spreadsheet
+* production_sites.csv
 
 ## Guides
 ### Build an app from excel
+* step by step guide: build_app_from_excel.docx
 ### Integrate Air pollution REST API
+* step by step guide: integrate_air_pollution_rest_api.docx
 ### Publish own REST API
+* step by step guide: publish_own_REST_API.docx
 ### Integrate ODA Chatbot
+* step by step guide: 
+
 
 
 
