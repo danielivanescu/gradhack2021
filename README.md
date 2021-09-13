@@ -12,6 +12,14 @@
 * I recommend signing up for Oracle Cloud Infrastructure free tier or a trial account.
 * Attendees at Gradhack can use the provided trial accounts
 
+## Sample application
+* f106.sql - you will need to edit App 106 > Shared Components > Web credentials with your own api key.
+## Sample data model script supporting the sample application
+* sample_ddl.sql - sample app will give errors without these tables in place.
+
+
+*I suggest you use the sample datasheet and guides below to build your own version
+
 ## Sample data spreadsheet
 * production_sites.csv
 
@@ -22,8 +30,7 @@
 * step by step guide: integrate_air_pollution_rest_api.docx
 ### Publish own REST API
 * step by step guide: publish_own_REST_API.docx
-### Integrate ODA Chatbot
-* step by step guide: 
+
 
 
 
